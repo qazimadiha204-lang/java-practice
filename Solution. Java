@@ -1,0 +1,23 @@
+import java.util.*;
+public class circle{
+    public static void main (String []args){
+        Scanner Sc =new Scanner (System.in);
+        int num;
+        System.out.print("entet a integer");
+        num = Sc.nextInt();
+        if (isEven( num)){
+            System.out.println("number is even");
+        }else{
+            System.out.println("is number is odd");
+        }
+}
+public static boolean isEven(int number){
+    if (number%2==0){
+        return true;
+
+    }else {
+        return false;    
+        
+    }
+}
+}

@@ -105,3 +105,9 @@ math:100 percentage=92.0%
   Prints all pairs of an array using nested loops. Each element is paired with all elements after it.
   
   Output: (2,4)(2,6)(2,8)(2,10) (4,6)(4,8)(4,10) (6,8)(6,10) (8,10)
+  
+- [print-total-pairs.java](print-total-pairs.java)
+- 
+  Prints all pairs of an array using nested loops and counts total pairs using a counter variable.
+  
+  Output: (2,4)(2,6)(2,8)(2,10) (4,6)(4,8)(4,10) (6,8)(6,10) (8,10) totall pairs=10

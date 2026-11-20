@@ -63,7 +63,8 @@ _javascript
 
 - [arraysresult.java](arraysresult.java)
 - 
-  Takes marks of 3 subjects - Physics, Chemistry, Maths. Prints them, updates Maths marks to 100 and calculates the percentage. Shows how to take input, print output and update value in an Array.
+  Takes marks of 3 subjects - Physics, Chemistry, Maths. Prints them, updates Maths marks to 100 and calculates the percentage. Shows how to take input, print and update value in an Array.
+output
 87
 89
 97
@@ -73,14 +74,17 @@ math:97
 
 - [ArrayFunction.java](ArrayFunction.java)
   Passes array to a function and increases each mark by 1. Shows how arrays are passed by reference in Java.
+
   output: 98 99 100
   
 - [LinearSearch.java](LinearSearch.java)
   Searches a key in an array using Linear Search. Returns the index if found, otherwise returns -1.
+  
   Output: key is at index:4
   
 - [LargestSmallest.java](LargestSmallest.java)
   Finds the largest and smallest value in an array using Integer.MIN_VALUE and MAX_VALUE.
+  
   Output: smallest value is: 1, largest value is: 8
 math:100
 percentage=92.0%

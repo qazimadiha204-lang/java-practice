@@ -79,7 +79,7 @@ math:97
   Searches a key in an array using Linear Search. Returns the index if found, otherwise returns -1.
   Output: key is at index:4
   
-  - [LargestSmallest.java](LargestSmallest.java)
+- [LargestSmallest.java](LargestSmallest.java)
   Finds the largest and smallest value in an array using Integer.MIN_VALUE and MAX_VALUE.
   Output: smallest value is: 1, largest value is: 8
 math:100

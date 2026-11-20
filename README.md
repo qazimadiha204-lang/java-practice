@@ -101,4 +101,6 @@ math:100 percentage=92.0%
   Searches a key in a sorted array using Binary Search. Divides the array in half each time to find the key faster than Linear Search. Returns the index if found, otherwise returns -1.
 
   Output: index for key is:2
-  
+  - [printpairs.java](printpairs.java)
+  Prints all pairs of an array using nested loops. Each element is paired with all elements after it.
+  Output: (2,4)(2,6)(2,8)(2,10) (4,6)(4,8)(4,10) (6,8)(6,10) (8,10)

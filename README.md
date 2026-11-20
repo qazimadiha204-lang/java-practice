@@ -114,7 +114,9 @@ math:100 percentage=92.0%
 
 - [printsubarrays.java](printsubarrays.java)
   Prints all subarrays of an array using three nested loops and counts total subarrays.
-  2 
+output:
+  
+2 
 2 4 
 2 4 6 
 2 4 6 8 
@@ -136,4 +138,4 @@ math:100 percentage=92.0%
 
 total sub array=15
   
-  Output: total sub array=15
+

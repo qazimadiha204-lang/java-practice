@@ -71,12 +71,12 @@ phys:87
 chem:89
 math:97
 
-[ArrayFunction.java](ArrayFunction.java)
+[arrayFunction.java](arrayFunction.java)
 
   Passes array to a function and increases each mark by 1. Shows how arrays are passed by reference in Java.
   output: 98 99 100
   
-   [LinearSearch.java](LinearSearch.java)
+   [linearSearch.java](linearSearch.java)
   
   Searches a key in an array using Linear Search. Returns the index if found, otherwise returns -1.
   Output: key is at index:4

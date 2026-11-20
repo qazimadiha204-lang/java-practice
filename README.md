@@ -91,7 +91,7 @@ math:100 percentage=92.0%
   
    Output: smallest value is: 1, largest value is: 8
   
-- [reverse.java](reverse.java)
+- [reverseanarray.java](reverseanarray.java)
   Reverses an array by swapping first and last elements using two pointers. Uses a temp variable for swapping.
 
   Output: 10 8 6 4 2

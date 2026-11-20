@@ -73,5 +73,8 @@ math:97
 [ArrayFunction.java](ArrayFunction.java)
   Passes array to a function and increases each mark by 1. Shows how arrays are passed by reference in Java.
   output: 98 99 100
+   [LinearSearch.java](LinearSearch.java)
+  Searches a key in an array using Linear Search. Returns the index if found, otherwise returns -1.
+  Output: key is at index:4
 math:100
 percentage=92.0%

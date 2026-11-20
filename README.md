@@ -58,3 +58,16 @@ _javascript
      _
     _
    _
+
+## Arrays
+
+- [Arraysresult.java](Arraysresult.java)
+  Takes marks of 3 subjects - Physics, Chemistry, Maths. Prints them, updates Maths marks to 100 and calculates the percentage. Shows how to take input, print output and update value in an Array.
+87
+89
+97
+phys:87
+chem:89
+math:97
+math:100
+percentage=92.0%

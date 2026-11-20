@@ -88,5 +88,10 @@ math:100 percentage=92.0%
 - [LargestSmallest.java](LargestSmallest.java)
  
   Finds the largest and smallest value in an array using Integer.MIN_VALUE and MAX_VALUE.
+- [binarysearch.java](binarysearch.java)
+  
+  Searches a key in a sorted array using Binary Search. Divides the array in half each time to find the key faster than Linear Search. Returns the index if found, otherwise returns -1.
+
+  Output: index for key is:2
   
   Output: smallest value is: 1, largest value is: 8

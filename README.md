@@ -70,5 +70,8 @@ _javascript
 phys:87
 chem:89
 math:97
+[ArrayFunction.java](ArrayFunction.java)
+
+  Passes array to a function and increases each mark by 1. Shows how arrays are passed by reference in Java.
 math:100
 percentage=92.0%

@@ -73,16 +73,19 @@ chem:89
 math:97
 
 - [ArrayFunction.java](ArrayFunction.java)
+- 
   Passes array to a function and increases each mark by 1. Shows how arrays are passed by reference in Java.
 
   output: 98 99 100
   
 - [LinearSearch.java](LinearSearch.java)
+
   Searches a key in an array using Linear Search. Returns the index if found, otherwise returns -1.
   
   Output: key is at index:4
   
 - [LargestSmallest.java](LargestSmallest.java)
+ 
   Finds the largest and smallest value in an array using Integer.MIN_VALUE and MAX_VALUE.
   
   Output: smallest value is: 1, largest value is: 8

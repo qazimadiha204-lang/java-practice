@@ -147,4 +147,10 @@ total sub array=15
   Prints size of array and all elements of array using a function.
   
   Output: size: 5 | 10 20 30 40 50
+  
+- [MaxsumSubarray.java](MaxsumSubarray.java)
+
+  Finds maximum subarray sum using prefix sum method. Prefix array stores cumulative sum to calculate any subarray sum in O(1).
+
+  Output: maxsum=30
 

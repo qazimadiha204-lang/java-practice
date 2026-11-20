@@ -111,3 +111,8 @@ math:100 percentage=92.0%
   Prints all pairs of an array using nested loops and counts total pairs using a counter variable.
   
   Output: (2,4)(2,6)(2,8)(2,10) (4,6)(4,8)(4,10) (6,8)(6,10) (8,10) totall pairs=10
+
+- [printsubarrays.java](printsubarrays.java)
+  Prints all subarrays of an array using three nested loops and counts total subarrays.
+  
+  Output: total sub array=15

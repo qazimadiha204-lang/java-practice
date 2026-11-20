@@ -62,7 +62,7 @@ _javascript
 ## arrays
 
 - [arraysresult.java](arraysresult.java)
-- 
+ 
   Takes marks of 3 subjects - Physics, Chemistry, Maths. Prints them, updates Maths marks to 100 and calculates the percentage. Shows how to take input, print and update value in an Array.
 output
 87
@@ -73,7 +73,7 @@ chem:89
 math:97
 
 - [ArrayFunction.java](ArrayFunction.java)
-- 
+
   Passes array to a function and increases each mark by 1. Shows how arrays are passed by reference in Java.
 
   output: 98 99 100

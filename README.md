@@ -142,5 +142,9 @@ output:
 
 
 total sub array=15
+
+- [Print-size-of-array.java](Print-size-of-array.java)
+  Prints size of array and all elements of array using a function.
   
+  Output: size: 5 | 10 20 30 40 50
 

@@ -71,6 +71,7 @@ output
 phys:87
 chem:89
 math:97
+math:100 percentage=92.0%
 
 - [ArrayFunction.java](ArrayFunction.java)
 
@@ -89,5 +90,3 @@ math:97
   Finds the largest and smallest value in an array using Integer.MIN_VALUE and MAX_VALUE.
   
   Output: smallest value is: 1, largest value is: 8
-math:100
-percentage=92.0%

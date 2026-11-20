@@ -91,6 +91,11 @@ math:100 percentage=92.0%
   
    Output: smallest value is: 1, largest value is: 8
   
+  - [reverse.java](reverse.java)
+  Reverses an array by swapping first and last elements using two pointers. Uses a temp variable for swapping.
+
+  Output: 10 8 6 4 2
+  
 - [binarysearch.java](binarysearch.java)
   
   Searches a key in a sorted array using Binary Search. Divides the array in half each time to find the key faster than Linear Search. Returns the index if found, otherwise returns -1.

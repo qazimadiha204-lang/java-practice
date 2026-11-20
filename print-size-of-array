@@ -1,0 +1,14 @@
+public class Print-size-of-array{
+    public static void arrays(int[] arr, int n){
+        for (int i = 0; i < n; i++){
+            System.out.print(arr[i] + " ");
+        }
+    }
+
+    public static void main(String args[]){
+        int[] arr = {10, 20, 30, 40, 50};
+        int n = arr.length;
+        System.out.println("size:" + " " + n);
+        arrays(arr, n);
+    }
+}
